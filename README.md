@@ -17,7 +17,8 @@
 
 O código completo, a modelagem dos grafos, as execuções dos algoritmos (com e sem memoização) e as visualizações em mapa interativo (Folium) encontram-se no notebook abaixo:
 
-👉 **[Acessar o notebook.ipynb](,,)**
+ **[Acessar o notebook.ipynb](CP03-DynamicPrograming)**
+ **[Acessar o notebook.ipynb no Google Colab](..)**
 
 ---
 *Projeto desenvolvido para a análise de rotas urbanas utilizando algoritmos de grafos (Busca em Profundidade, Backtracking e Memoização).*
